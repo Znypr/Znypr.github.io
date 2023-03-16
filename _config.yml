@@ -17,7 +17,7 @@ lang: en-US
 title: ZNYPR
 email: znyprttv@gmail.com
 description:
-baseurl: "/home"
+baseurl: "/index.html"
 url: ""
 author:
   name: znypr
