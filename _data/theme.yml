@@ -1,5 +1,5 @@
 # Theme Skin
-skin: default # default, night, plum, sea, soft, steel
+skin: sea # default, night, plum, sea, soft, steel
 
 # Theme Text
 t:
@@ -9,7 +9,6 @@ t:
   skip_footer: "Skip to footer"
   menu: "Menu"
   search: "Search"
-  site_search: "Site Search"
   results_found: "Result(s) found"
   search_placeholder_text: "Enter your search term..."
   home: "Home"
@@ -49,4 +48,8 @@ google_fonts:
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
+  - about.md
+  - cv.md
+  - recipes.md
+  - tags.md
   - socials.md
