@@ -6,6 +6,12 @@ subtitle: Follow me on social media!
 
 # Welcome to Your Website
 
+<!-- Add the code for the toggle switch below this line -->
+<label class="switch">
+  <input type="checkbox" id="toggle-switch">
+  <span class="slider round"></span>
+</label>
+
 ## My Social Media
 
 ### YouTube
