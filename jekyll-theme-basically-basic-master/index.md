@@ -1,5 +1,7 @@
 ---
 layout: home
+title: Znypr's Website
+subtitle: Follow me on social media!
 ---
 
 # Welcome to Your Website
@@ -25,3 +27,15 @@ layout: home
 ### Current Time
 
 <iframe src="https://free.timeanddate.com/clock/i7ts4j4v/n136/fn2/fs24/tct/pct/ftb/tt0/tw0/tm1/th1/ta1/tb4" frameborder="0" width="135" height="30"></iframe>
+
+<!-- Add the HTML content below this line -->
+
+{% include_relative youtube.html %}
+
+{% include_relative twitch.html %}
+
+{% include_relative twitter.html %}
+
+{% include_relative instagram.html %}
+
+{% include_relative current_time.html %}
