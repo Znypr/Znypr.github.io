@@ -16,7 +16,7 @@ subtitle: Follow me on social media!
 
 ### YouTube
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{youtube_username}}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Twitch
 
@@ -24,7 +24,7 @@ subtitle: Follow me on social media!
 
 ### Twitter
 
-<a class="twitter-timeline" href="https://twitter.com/twitter_username">Tweets by twitter_username</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/{{twitter_username}}">Tweets by {{twitter_username}}</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Instagram
 

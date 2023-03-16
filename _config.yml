@@ -17,21 +17,21 @@ lang: en-US
 title: ZNYPR
 email: znyprttv@gmail.com
 description:
-baseurl: /home
-url: https://znypr.github.io
+baseurl: "/home"
+url: ""
 author:
   name: znypr
-  twitter: https://twitter.com/znypr_
-  picture: 
+  twitter: znypr_
+  picture: /assets/images/logo.png
 twitter_username: znypr_
 github_username: znypr
 twitch_username: znypr_
 youtube_username: znypr
 instagram_username: znypr
-logo: "/assets/images/logo.png"
-search: # true, false (default)
-search_full_content: false # true, false (default)
-search_provider: # lunr (default), algolia
+logo: /assets/images/logo.png
+search: true # true, false (default)
+search_full_content: true # true, false (default)
+search_provider:  # lunr (default), algolia
 algolia:
   application_id: # YOUR_APPLICATION_ID
   index_name: # YOUR_INDEX_NAME
