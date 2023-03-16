@@ -17,8 +17,8 @@ lang: en-US
 title: ZNYPR
 email: znyprttv@gmail.com
 description: "meow"
-baseurl: "/socials"
-url: ""
+baseurl: "/"
+url: "https://Znypr.github.io"
 author:
   name: znypr
   twitter: znypr_
