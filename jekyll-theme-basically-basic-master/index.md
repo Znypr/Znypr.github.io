@@ -41,7 +41,7 @@ subtitle: Follow me on social media!
 <iframe src="https://free.timeanddate.com/clock/i7ts4j4v/n136/fn2/fs24/tct/pct/ftb/tt0/tw0/tm1/th1/ta1/tb4"
     frameborder="0" width="135" height="30"></iframe>
 
-{% include_relative _socials/youtube.html %}
+{% include_relative youtube.html %}
 
 {% include_relative _socials/twitch.html %}
 
