@@ -25,9 +25,6 @@ author:
   picture: /assets/images/logo.png
 twitter_username: znypr_
 github_username: znypr
-twitch_username: znypr_
-youtube_username: znypr
-instagram_username: znypr
 logo: /assets/images/logo.png
 search: true # true, false (default)
 search_full_content: true # true, false (default)
@@ -37,7 +34,6 @@ algolia:
   index_name: # YOUR_INDEX_NAME
   search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
   powered_by: # true (default), false
-timezone: Europe/Berlin
 
 # Build settings
 markdown: kramdown
