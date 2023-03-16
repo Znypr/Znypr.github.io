@@ -27,7 +27,7 @@ subtitle: Follow me on social media!
 
 ### Twitter
 
-<a class="twitter-timeline" href="https://twitter.com/{{twitter_username}}">Tweets by {{twitter_username}}</a>
+<a class="twitter-timeline" href="https://twitter.com/{{youtube_username}}">Tweets by {{twitter_username}}</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Instagram
@@ -43,10 +43,10 @@ subtitle: Follow me on social media!
 
 {% include_relative youtube.html %}
 
-{% include_relative _socials/twitch.html %}
+{% include_relative twitch.html %}
 
-{% include_relative _socials/twitter.html %}
+{% include_relative twitter.html %}
 
-{% include_relative _socials/instagram.html %}
+{% include_relative instagram.html %}
 
 <!-- Add the code for the toggle switch above this line -->
