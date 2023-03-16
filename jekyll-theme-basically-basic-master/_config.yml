@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: My Awesome Site
+title: ZNYPR
 email: znyprttv@gmail.com
 description:
-baseurl: # the optional subpath of your site, e.g. "/blog"
+baseurl: "" # the optional subpath of your site, e.g. "/blog"
 url: "https://znypr.github.io"
 author:
   name: Znypr
@@ -25,6 +25,9 @@ author:
   picture: /assets/images/logo.png
 twitter_username: znypr_
 github_username: znypr
+youtube_username: znypr
+twitch_username: znypr_
+instagram_username: znypr
 logo: /assets/images/logo.png
 search: true # true, false (default)
 search_full_content: true # true, false (default)
