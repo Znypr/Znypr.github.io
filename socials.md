@@ -1,6 +1,6 @@
 ---
 title: Socials
-layout: socials
+layout: posts
 permalink: /socials/
 entries_layout: list
 ---
